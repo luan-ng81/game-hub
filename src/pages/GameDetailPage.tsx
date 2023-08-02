@@ -18,3 +18,5 @@ const GameDetailPage = () => {
     </>
   );
 };
+
+export default GameDetailPage
